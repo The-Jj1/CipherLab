@@ -5,8 +5,6 @@
 A small Python desktop app for exploring classic ciphers and authenticated encryption.
 Built with CustomTkinter and cryptography. Text processing runs locally with no network calls.
 
-![CipherLab desktop interface](docs/screenshot.png)
-
 ## Features
 
 - Encrypt and decrypt text with Caesar, ROT13, Vigenère, Atbash, Rail Fence, or Fernet.
